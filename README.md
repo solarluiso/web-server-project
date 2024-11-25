@@ -2,7 +2,7 @@
 
 Created a web server to serve a social network-style web app, similar to the famous "twitter" platform.
 
-## How to Use It?
+## How to Use It:
 
 1. Clone the repository using: `git clone https://github.com/solarluiso/web-server-project`
 2. Open the project in your code editor and run the following command in your terminal: `npm install`
